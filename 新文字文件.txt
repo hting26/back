@@ -1,0 +1,1 @@
+npm i mongoose express dotenv jsonwebtoken multer md5 validator cors cloudinary multer-storage-cloudinary
